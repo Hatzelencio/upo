@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-workspace": [
+      {
+        "type": "separator"
+      },
+      {
+        "label": "Upo sftp",
+        "submenu": [
+          {
+            "label": "Upload current file",
+            "command": "upo:upload-single-file"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Upo",
+          "submenu": [
+            {
+              "label": "Upload current file",
+              "command": "upo:upload-single-file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

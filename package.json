@@ -1,0 +1,26 @@
+{
+  "name": "upo",
+  "main": "./lib/upo",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "client sftp",
+    "sftp",
+    "ftp",
+    "taco"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "upo:create-config-file",
+      "upo:upload-single-file"
+    ]
+  },
+  "repository": "https://github.com/Hatzelencio/upo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs-extra": "0.30.0"
+  }
+}
