@@ -15,12 +15,15 @@
       "upo:upload-single-file"
     ]
   },
-  "repository": "https://github.com/Hatzelencio/upo.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
     "fs-extra": "0.30.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hatzelencio/upo.git"
   }
 }
