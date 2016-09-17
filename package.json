@@ -2,7 +2,7 @@
   "name": "upo",
   "main": "./lib/upo",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Cliente sftp.",
   "keywords": [
     "client sftp",
     "sftp",
@@ -15,7 +15,7 @@
       "upo:upload-single-file"
     ]
   },
-  "repository": "https://github.com/Hatzelencio/upo",
+  "repository": "https://github.com/Hatzelencio/upo.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
