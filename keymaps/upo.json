@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-pane-container": {
     "ctrl-alt-u": "upo:upload-single-file"
   }
 }

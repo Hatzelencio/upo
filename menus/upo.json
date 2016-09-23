@@ -1,6 +1,6 @@
 {
   "context-menu": {
-    "atom-workspace": [
+    "atom-pane-container": [
       {
         "type": "separator"
       },

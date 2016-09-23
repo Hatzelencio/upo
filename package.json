@@ -10,7 +10,7 @@
     "taco"
   ],
   "activationCommands": {
-    "atom-workspace": [
+    "atom-pane-container": [
       "upo:create-config-file",
       "upo:upload-single-file"
     ]
