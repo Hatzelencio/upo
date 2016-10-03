@@ -30,6 +30,9 @@ apt-get install sshpass
 
 # centos
 yum install sshpass
+
+# macos
+brew install https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb
 ```
 
 --------------------------------------------------------------------------------
